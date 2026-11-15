@@ -1,8 +1,6 @@
 # datathon26_yic
 ## Interactive Tableau dashboard
 
-[Explore advertised benefits in California job ads](https://public.tableau.com/app/profile/celine.tan7285/viz/YIC_Datathon2026/Dashboard)
+[Explore advertised benefits in California job ads](https://public.tableau.com/app/profile/yana.sen1982/viz/ThePart-TimePenalty/Dashboard1)
 
-Compare part-time and full-time postings by hourly wage band, switch between
-structured-only and text-inclusive benefit scores, and explore benefits by
-occupation.
+An interactive look at how part-time job ads list fewer core benefits than full-time ads, broken down by benefit, wage band, and occupation.
